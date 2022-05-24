@@ -1795,8 +1795,8 @@ k8s.io/utils/trace
 # mvdan.cc/editorconfig v0.2.0
 ## explicit; go 1.15
 mvdan.cc/editorconfig
-# mvdan.cc/sh/v3 v3.4.3
-## explicit; go 1.16
+# mvdan.cc/sh/v3 v3.5.1
+## explicit; go 1.17
 mvdan.cc/sh/v3/cmd/shfmt
 mvdan.cc/sh/v3/fileutil
 mvdan.cc/sh/v3/syntax
